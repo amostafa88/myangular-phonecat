@@ -1,0 +1,24 @@
+{
+  "name": "myangular-phonecat",
+  "description": "A starter project for AngularJS",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.3.x",
+    "angular-mocks": "1.3.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "angular-route": "~1.3.15"
+  },
+  "authors": [
+    "amostafa88 <amostafa88@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/static/lib",
+    "test",
+    "tests"
+  ]
+}
